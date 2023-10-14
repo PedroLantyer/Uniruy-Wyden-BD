@@ -1,0 +1,1 @@
+Pasta a ser utilizada para ideias

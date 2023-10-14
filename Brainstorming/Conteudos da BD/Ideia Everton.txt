@@ -1,0 +1,29 @@
+Entidades:
+
+Food Truck: Representando o próprio veículo e negócio de venda de comida.
+Funcionário: Referente aos indivíduos empregados no food truck.
+Cliente: Indicando os consumidores que compram alimentos do food truck.
+
+Relacionamentos:
+
+Emprega: Conecta o food truck aos seus funcionários.
+Atende: Liga o food truck aos clientes atendidos.
+
+Atributos:
+
+Food Truck:
+Identificação do veículo
+Nome do Food Truck
+Localização
+Menu de produtos oferecidos
+Horário de funcionamento
+Funcionário:
+Identificação do funcionário
+Nome
+Função
+Horário de trabalho
+Cliente:
+Identificação do cliente
+Nome
+Preferências de comida
+Histórico de compras

@@ -26,4 +26,13 @@ Cliente:
 Identificação do cliente
 Nome
 Preferências de comida
-Histórico de compras
+
+#COMENTARIOS: - PEDRO#
+Food Truck pode ser o nome da BD, não uma entidade, Empresa é o ideal para está entidade
+Junto com ID do veiculo, placa do Carro
+Em vez de ter o menu como atributo do food truck ter a relação: Empresa - possui - Menu (1 Empresa possui 1 menu nesse caso)
+Funcionário - ID vai ser a chave primaria
+Funcionário - Adicionar RG, CPF, data de nascimento e nacionalidade
+Cliente: OK
+Adicionar entidade "Caminhão" (1 empresa tem 1 caminhão.)
+Atributos do Caminhão: ID, ano, placa, chave primaria, modelo, # de funcionários

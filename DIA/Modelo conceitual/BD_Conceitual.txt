@@ -1,0 +1,51 @@
+Entidades:
+
+Empresa
+Funcionário
+Cliente
+
+Relacionamentos:
+
+Emprega
+Atende
+
+Atributos:
+
+Empresa:
+CNPJ
+Nome fantasia
+Localização
+Capital Social
+
+Funcionário:
+ID_Funcionário
+Nome
+CPF
+Função
+Sexo
+Idade
+Salário
+Nacionalidade
+
+Cliente:
+ID_Cliente
+Nome
+CPF
+Endereço
+Idade
+Sexo
+Item favorito
+Nacionalidade
+
+Foodtruck:
+ID
+Placa
+Modelo
+Ano
+Tipo de combustivel
+
+Produtos:
+ID
+Nome
+Preço
+Vegetariano
